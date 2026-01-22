@@ -1,0 +1,29 @@
+# Environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data (se houver dados sensíveis)
+data/*.csv
+!data/sample.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
