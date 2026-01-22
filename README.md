@@ -38,4 +38,22 @@ Para visualizar o notebook completo com código e gráficos, abra no Google Cola
 
 ---
 
-**Criado com ](https://github.com/galeki2018-hash) | 2025
+## 🚀 Como executar
+
+1. **Abra no Google Colab** (sem instalações locais):
+   - Clique no botão "Open in Colab" acima
+
+2. **Rode localmente** (com Jupyter Notebook):
+   ```bash
+   pip install -r requirements.txt
+   jupyter notebook notebooks/analise_colaboradores.ipynb
+   ```
+
+3. **Versões utilizadas**:
+   - Python 3.8+
+   - Pandas, NumPy, Matplotlib, Seaborn (veja requirements.txt)
+
+---
+
+
+**Criado com ❤️ por [galeki2018-hash](https://github.com/galeki2018-hash) | 2026**
